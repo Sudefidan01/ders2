@@ -1,0 +1,16 @@
+C:\Users\pcc\source\repos\Ders2\Ders2\bin\Debug\Ders2.exe.config
+C:\Users\pcc\source\repos\Ders2\Ders2\bin\Debug\Ders2.exe
+C:\Users\pcc\source\repos\Ders2\Ders2\bin\Debug\Ders2.pdb
+C:\Users\pcc\source\repos\Ders2\Ders2\obj\Debug\Ders2.csproj.AssemblyReference.cache
+C:\Users\pcc\source\repos\Ders2\Ders2\obj\Debug\Ders2.csproj.SuggestedBindingRedirects.cache
+C:\Users\pcc\source\repos\Ders2\Ders2\obj\Debug\Ders2.Form1.resources
+C:\Users\pcc\source\repos\Ders2\Ders2\obj\Debug\Ders2.Properties.Resources.resources
+C:\Users\pcc\source\repos\Ders2\Ders2\obj\Debug\Ders2.csproj.GenerateResource.cache
+C:\Users\pcc\source\repos\Ders2\Ders2\obj\Debug\Ders2.csproj.CoreCompileInputs.cache
+C:\Users\pcc\source\repos\Ders2\Ders2\obj\Debug\Ders2.exe
+C:\Users\pcc\source\repos\Ders2\Ders2\obj\Debug\Ders2.pdb
+C:\Users\pcc\source\repos\Ders2\Ders2\obj\Debug\Ders2.AnaEkran.resources
+C:\Users\pcc\source\repos\Ders2\Ders2\obj\Debug\Ders2.CheckBoxOrnek.resources
+C:\Users\pcc\source\repos\Ders2\Ders2\obj\Debug\Ders2.RadioButton.resources
+C:\Users\pcc\source\repos\Ders2\Ders2\obj\Debug\Ders2.RadioButtonOrnek.resources
+C:\Users\pcc\source\repos\Ders2\Ders2\obj\Debug\Ders2.ListBox.resources
